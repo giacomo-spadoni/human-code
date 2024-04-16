@@ -1,0 +1,207 @@
+<mxfile host="app.diagrams.net" modified="2024-04-15T13:55:56.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="7zwNYx5EgtWDqdwK6ce-" version="24.2.5" type="device">
+  <diagram name="Pagina-1" id="zU1nzIKNhFQ1C5MKUr1R">
+    <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-2" value="&lt;div&gt;Apro il frigo&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="10" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-5" target="zIkeD_OUdn-KKWOZIVvl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-8" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIkeD_OUdn-KKWOZIVvl-7">
+          <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-5" target="zIkeD_OUdn-KKWOZIVvl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-11" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIkeD_OUdn-KKWOZIVvl-10">
+          <mxGeometry x="-0.1556" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-6" value="Non faccio nulla" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-9" value="Controllo cosa manca" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-14" target="zIkeD_OUdn-KKWOZIVvl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-24" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIkeD_OUdn-KKWOZIVvl-16">
+          <mxGeometry x="-0.56" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-14" target="zIkeD_OUdn-KKWOZIVvl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-27" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIkeD_OUdn-KKWOZIVvl-18">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-14" value="C&#39;è il latte?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-15" value="Aggiungo alla lista il latte" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-17" target="zIkeD_OUdn-KKWOZIVvl-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-28" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIkeD_OUdn-KKWOZIVvl-21">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-17" value="C&#39;è l&#39;acqua?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="430" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-36" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIkeD_OUdn-KKWOZIVvl-35">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-20" value="Ci sono le crocchette?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="610" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.82;entryY=0.26;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-15" target="zIkeD_OUdn-KKWOZIVvl-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="325" as="sourcePoint" />
+            <mxPoint x="254" y="475" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="zIkeD_OUdn-KKWOZIVvl-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-31" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIkeD_OUdn-KKWOZIVvl-30">
+          <mxGeometry x="-0.56" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-32" value="Aggiungo alla lista l&#39;acqua" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.82;entryY=0.26;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="505" as="sourcePoint" />
+            <mxPoint x="212" y="636" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-34" target="zIkeD_OUdn-KKWOZIVvl-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-34" value="Vado a fare la spesa" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="zIkeD_OUdn-KKWOZIVvl-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="660" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-38" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIkeD_OUdn-KKWOZIVvl-37">
+          <mxGeometry x="-0.56" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-39" value="Aggiungo alla lista le crocchette" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="685" as="sourcePoint" />
+            <mxPoint x="240" y="840" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-2" target="zIkeD_OUdn-KKWOZIVvl-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="110" as="sourcePoint" />
+            <mxPoint x="400" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-5" value="&lt;div&gt;Controllo se il frigo è pieno&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-51" target="zIkeD_OUdn-KKWOZIVvl-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-51" value="Inserisco prodotti della lista nel carrello" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-59" target="zIkeD_OUdn-KKWOZIVvl-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-59" value="Vado a pagare e utlizzo il coupon" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="990" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-61" target="zIkeD_OUdn-KKWOZIVvl-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-73" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIkeD_OUdn-KKWOZIVvl-66">
+          <mxGeometry x="-0.0889" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-61" target="zIkeD_OUdn-KKWOZIVvl-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-72" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIkeD_OUdn-KKWOZIVvl-68">
+          <mxGeometry x="-0.4643" y="-3" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-61" value="Ho preso snack extra?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1070" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-65" value="Pago in contanti" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-67" target="zIkeD_OUdn-KKWOZIVvl-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-75" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIkeD_OUdn-KKWOZIVvl-70">
+          <mxGeometry x="-0.0286" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-67" value="Bastano i contanti?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1245" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-69" value="Pago con il bancomat" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zIkeD_OUdn-KKWOZIVvl-67" target="zIkeD_OUdn-KKWOZIVvl-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1300" as="sourcePoint" />
+            <mxPoint x="440" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIkeD_OUdn-KKWOZIVvl-74" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIkeD_OUdn-KKWOZIVvl-71">
+          <mxGeometry x="-0.08" y="4" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
